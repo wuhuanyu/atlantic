@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">126</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3104a094-f57c-44f1-a2c1-cff6f98ab01d</dc:identifier>
+        <dc:title>The Atlantic</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-15T00:58:29.510677+00:00</dc:date>
+        <dc:description>本期文章:
+
+Impeach Donald Trump
+
+Impeachment: An Argument
+
+Scientists Are Totally Rethinking Animal Cognition
+
+‘Nobody Is Going to Believe You’
+
+Liberals and Conservatives React in Wildly Different Ways to Repulsive Pictures
+
+Russian-Style Kleptocracy Is Infiltrating America
+
+Active-Shooter Drills Are Tragically Misguided
+
+Workplace Theft Is on the Rise
+
+Roma Is the Latest Entry in Alfonso Cuarón’s Feminist Oeuvre
+
+The Sad Story of a Rare Cat and Its Loyal Parasite
+
+Why Ford Hired a Furniture Maker as CEO
+
+Sears Once Sold Heroin
+
+Wes Anderson Is Under Edward Gorey’s Spell
+
+A Bold New Theory Proposes That Humans Tamed Themselves
+
+John Roberts’s Biggest Test Is Yet to Come
+
+The Bitter Origins of the Fight Over Big Government
+
+Hollywood’s Secret History of Sexuality
+
+What Medical School Doesn’t Teach About Death
+
+The Conversation: The Sex Recession
+
+What Was the Biggest Scandal of All Time?
+
+Chamber
+
+Current affairs and politics focussed on the US</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">150926d9-bdea-4400-86c4-c7d1a382a0f3</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Atlantic</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-15T00:58:37.773919+00:00" name="calibre:timestamp"/>
+        <meta content="Atlantic, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
