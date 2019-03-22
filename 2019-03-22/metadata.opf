@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">147</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9f6a267-19e5-4c13-9272-c9882476b10c</dc:identifier>
+        <dc:title>The Atlantic</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.40.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-22T00:21:22.924348+00:00</dc:date>
+        <dc:description>本期文章:
+
+If Liberals Won’t Enforce Borders, Fascists Will
+
+Trump Once Proposed Building a Castle on Madison Avenue
+
+Will John Bolton Bring on Armageddon—Or Stave It Off?
+
+The Fertility Doctor’s Secret
+
+How the U.S.-Russian Relationship Went Bad
+
+White Nationalism’s Deep American Roots
+
+How AI Will Rewire Us
+
+The Tunisian-Italian Rapper Who Won Over Europe’s Most Anti-Immigrant Country
+
+Get Off My Lawn
+
+Game of Thrones Turned Its Composer Into a Rock Star
+
+Bad Dreams Are Good
+
+Why Urban Millennials Love Uniqlo
+
+Why Americans Don’t Cheat on Their Taxes
+
+Prehistoric Happy Hour
+
+Killing It With Kindness
+
+Psychiatry’s Incurable Hubris
+
+Amy Hempel Is the Master of the Minimalist Short Story
+
+The ‘Female Byron’
+
+Brain Surgery, Up Close
+
+The Conversation: Don’t Call Me LGBTQ
+
+What Was the Best Sequel in History?
+
+The Heart Has Reasons
+
+Current affairs and politics focussed on the US</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">00956023-da06-4cd2-af8b-22b7b2a41415</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Atlantic</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-22T00:21:30.294817+00:00" name="calibre:timestamp"/>
+        <meta content="Atlantic, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
