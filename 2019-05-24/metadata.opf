@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">187</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e15b912-6fb1-46e7-8edc-02a534733d69</dc:identifier>
+        <dc:title>The Atlantic</dc:title>
+        <dc:creator opf:file-as="Atlantic, The" opf:role="aut">The Atlantic</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-24T00:18:28.639009+00:00</dc:date>
+        <dc:description>本期文章:
+
+Abolish the Priesthood
+
+Mireya’s Third Crossing
+
+An Oral History of Trump’s Bigotry
+
+Viktor Orbán’s War on Intellect
+
+Was Shakespeare a Woman?
+
+Fact-Checking the President in Real Time
+
+Desus and Mero Give a Crash Course in Wokeness
+
+Hell Is Other People’s Vacations
+
+The Peculiar Blindness of Experts
+
+How I Tried to Defy the Facebook Algorithm
+
+Movie-Prop Cash Is Fooling Cashiers
+
+The Killer Comet
+
+What Song Exploder Has Taught Us
+
+Eat Food. All the Time. Mostly Junk.
+
+Female Spies and Their Secrets
+
+The Photographer Fighting Visual Clichés of Africa
+
+The Conversation: How Much Immigration Is Too Much?
+
+What Is the Most Overrated Invention?
+
+The Pawpaw
+
+Current affairs and politics focussed on the US</dc:description>
+        <dc:publisher>The Atlantic</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">e30d8b51-3bb1-4736-9416-55ff28244f9b</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Atlantic</dc:subject>
+        <meta content="{&quot;The Atlantic&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-24T00:18:36.863209+00:00" name="calibre:timestamp"/>
+        <meta content="Atlantic, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
