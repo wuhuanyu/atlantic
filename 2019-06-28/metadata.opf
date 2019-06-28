@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">219</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6bee554-78fe-489a-9c4d-0a0c884765b2</dc:identifier>
+        <dc:title>The Atlantic</dc:title>
+        <dc:creator opf:file-as="The Atlantic" opf:role="aut">The Atlantic</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-28T00:36:12.107684+00:00</dc:date>
+        <dc:description>本期文章:
+
+What Really Happened to Malaysia’s Missing Airplane
+
+The Problem With HR
+
+At Work, Expertise Is Falling Out of Favor
+
+Your Professional Decline Is Coming (Much) Sooner Than You Think
+
+Cruising in the Age of Consent
+
+Better Schools Won’t Fix America
+
+Boy Scouts Are Holding Together a War-Torn Country
+
+The Last of Its Kind
+
+People Who Pay People to Kill People
+
+The Worst Patients in the World
+
+Put That Cow on a Diet
+
+‘A Work of Art Designed by the Devil’
+
+What Lies Beneath
+
+Doublethink Is Stronger Than Orwell Imagined
+
+The New Science of Building Baseball Superstars
+
+The Conversation: The Trouble With Dentistry
+
+What Lost Treasure Would You Most Like to Find?
+
+Sugar on Snow
+
+Current affairs and politics focussed on the US</dc:description>
+        <dc:publisher>The Atlantic</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Atlantic</dc:subject>
+        <meta content="{&quot;The Atlantic&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-06-28T00:36:14.694625+00:00" name="calibre:timestamp"/>
+        <meta content="Atlantic, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
