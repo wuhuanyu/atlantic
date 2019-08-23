@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">266</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da91e953-4b26-4a08-81bf-096d4e1eb073</dc:identifier>
+        <dc:title>The Atlantic</dc:title>
+        <dc:creator opf:file-as="The Atlantic" opf:role="aut">The Atlantic</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-23T00:08:45.806198+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Great Land Robbery
+
+Secrets and Lies in the School Cafeteria
+
+Lyme Disease Is Baffling, Even to Experts
+
+What Happened to Aung San Suu Kyi?
+
+The Quickening
+
+How Life Became an Endless, Terrible Competition
+
+The Endangered Sex Scene
+
+The Dutch War on Tourists
+
+Why Washing Machines Are Learning to Play the Harp
+
+Scientifically Proven Sources of Sex Appeal
+
+Games Boys Play
+
+The HR Department of the World
+
+And Then Job Said Unto the Lord: You Can’t Be Serious
+
+How Economists’ Faith in Markets Broke America
+
+Edna O’Brien’s Lonely Girls
+
+Deconstructing Clarence Thomas
+
+Where Goodness Thrives
+
+The Conversation: Your Professional Decline Is Coming (Much) Sooner Than You Think
+
+What Is the Greatest Movie Quote of All Time?
+
+Memory Song
+
+Current affairs and politics focussed on the US</dc:description>
+        <dc:publisher>The Atlantic</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Atlantic</dc:subject>
+        <meta content="{&quot;The Atlantic&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-23T00:08:49.306005+00:00" name="calibre:timestamp"/>
+        <meta content="Atlantic, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
