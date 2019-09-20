@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">292</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0bd2e718-ac19-4fbf-9840-d18b23cb06cf</dc:identifier>
+        <dc:title>The Atlantic</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.48.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-20T00:50:28.644277+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Heir
+
+The Man Who Couldn’t Take It Anymore
+
+When the Culture War Comes for the Kids
+
+Medicaid’s Dark Secret
+
+What I Wish I’d Known About Sexual Assault in the Military
+
+It’s Time for Black Athletes to Leave White Colleges
+
+She Doesn’t Believe All Women
+
+Whale Songs Are Getting Deeper
+
+The End of the Roman Empire Wasn’t That Bad
+
+Has the Presidency Skipped Gen X?
+
+Modern Life Has Made It Easier for Serial Killers to Thrive
+
+Space Is Getting Too Crowded
+
+The Loser-Spy Novelist for Our Times
+
+Misunderstanding Susan Sontag
+
+Boy, Uninterrupted
+
+The Secret Power of Menopause
+
+The Conversation
+
+What Is the Most Significant Sports Victory of All Time?
+
+Bluebird
+
+Current affairs and politics focussed on the US</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Atlantic</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-09-20T00:50:34.973402+00:00" name="calibre:timestamp"/>
+        <meta content="Atlantic, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
