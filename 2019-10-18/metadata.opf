@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">335</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">62007115-87e2-408a-a2d3-c52ab0c9a206</dc:identifier>
+        <dc:title>The Atlantic</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-18T01:09:21.495931+00:00</dc:date>
+        <dc:description>本期文章:
+
+Jeff Bezos’s Master Plan
+
+Top Military Officers Unload on Trump
+
+Why Everything Is Getting Louder
+
+When GoFundMe Gets Ugly
+
+My Family Story of Love, the Mob, and Government Surveillance
+
+Why You Never See Your Friends Anymore
+
+The Science of Getting Over It
+
+Sandra Boynton’s Captivating Universe
+
+How Baseball Cards Got Weird
+
+Cows Need Friends to Be Happy
+
+The Deportations Last Time
+
+Philip Pullman’s Problem With God
+
+Ways of Being
+
+Thomas Edison’s Greatest Invention
+
+The Conversation: This Land Was Our Land
+
+If You Could Go Back in Time and Change One Thing, What Would It Be?
+
+Current affairs and politics focussed on the US</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Atlantic</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-10-18T01:09:24.418081+00:00" name="calibre:timestamp"/>
+        <meta content="Atlantic, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
