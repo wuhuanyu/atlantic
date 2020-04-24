@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">513</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">235bfb1e-2f6c-41b9-812a-97756038b392</dc:identifier>
+        <dc:title>The Atlantic</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-24T00:29:49.266438+00:00</dc:date>
+        <dc:description>本期文章:
+
+What Happened to American Childhood?
+
+The Lawyer Whose Clients Didn’t Exist
+
+America’s Other Epidemic
+
+How China Sees the World
+
+Philip Roth’s Terrible Gift of Intimacy
+
+The Last Anti-Trump Republicans Are Biding Their Time
+
+The Brainiest Hitter
+
+After the Pandemic, the Office Dress Code Should Never Come Back
+
+India Is No Longer India
+
+A View From the Before Times
+
+The Secret of Scooby-Doo’s Enduring Appeal
+
+The People Who Profited Off the Trail of Tears
+
+What Alexander Calder Understood About Joy
+
+A Novelist’s Ambition to Define America
+
+The Commons: The Nuclear Family Was a Mistake
+
+An Ode to Driving in America
+
+Variations on a Phrase by Cormac McCarthy
+
+Current affairs and politics focussed on the US</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Atlantic</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-24T00:29:52.671512+00:00" name="calibre:timestamp"/>
+        <meta content="Atlantic, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
