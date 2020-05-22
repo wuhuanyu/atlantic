@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">524</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c86ea7b2-2414-4fb1-8413-5bfe33c976c0</dc:identifier>
+        <dc:title>The Atlantic</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-22T00:03:32.168381+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Prophecies of Q
+
+Putin Is Well on His Way to Stealing the Next Election
+
+Since I Met Edward Snowden, I’ve Never Stopped Watching My Back
+
+A Biblical Mystery at Oxford
+
+We Are Living in a Failed State
+
+Pandemics Leave Us Forever Altered
+
+Why Some of Us Thrive in a Crisis
+
+The Beauty of Age
+
+Trying Is a Sadcom in the Fleabag Mold
+
+J. M. Coetzee’s Unsettling Trilogy About a Possibly Divine Boy
+
+Why Birds Do What They Do
+
+Death Without Ceremony
+
+I Thought Stage IV Cancer Was Bad Enough
+
+Homeless in a City Buffeted by Plague
+
+How America Handles Catastrophe
+
+My Family Needed a Reset. Quarantine Gave Us One.
+
+I’m Risking My Life to Bring You Ramen
+
+In a Pandemic, All Some People See Is Your Color
+
+The Commons: How to Destroy a Government
+
+An Ode to Running in the Movies
+
+Tree Beyond Your Window
+
+Current affairs and politics focussed on the US</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Atlantic</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-05-22T00:03:35.737782+00:00" name="calibre:timestamp"/>
+        <meta content="Atlantic, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
