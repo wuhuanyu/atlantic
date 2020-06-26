@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">541</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">229dbd15-f1f7-4918-aea8-8cd226997d97</dc:identifier>
+        <dc:title>The Atlantic</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-26T00:43:52.195085+00:00</dc:date>
+        <dc:description>本期文章:
+
+History Will Judge the Complicit
+
+The Pandemic Shows Us the Genius of Supermarkets
+
+The Looming Bank Collapse
+
+30 Years Ago, Romania Deprived Thousands of Babies of Human Contact
+
+Deep Cut
+
+What Trump Should Have Learned From His Predecessors
+
+The Social Codes of the Crazy Rich
+
+The End of Minimalism
+
+You’re Showering Too Much
+
+What Big Tech Wants Out of the Pandemic
+
+Summer Days
+
+Seamus Heaney’s Journey Into Darkness
+
+The Dark Soul of the Sunshine State
+
+Time Has Lost All Meaning
+
+The Man Who Sacked Rome
+
+The Commons: Childhood in an Anxious Age
+
+An Ode to Insomnia
+
+Touchy
+
+Current affairs and politics focussed on the US</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Atlantic</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-26T00:43:55.387221+00:00" name="calibre:timestamp"/>
+        <meta content="Atlantic, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
