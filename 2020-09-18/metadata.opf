@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">586</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82f89981-9202-43cf-bd71-a8accf46b9fb</dc:identifier>
+        <dc:title>The Atlantic</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-18T01:02:20.753234+00:00</dc:date>
+        <dc:description>本期文章:
+
+The New Reconstruction
+
+America’s Plastic Hour Is Upon Us
+
+The Flawed Genius of the Constitution
+
+Get Ready for the Great Urban Comeback
+
+The True Story of the Married Woman Who Smuggled Her Boyfriend Out of Prison in a Dog Crate
+
+The Minimalist Who Wasn’t
+
+Power Shortage
+
+Can Italy Defeat Its Most Powerful Crime Syndicate?
+
+The New Southern Strategy
+
+Generation Work-From-Home May Never Recover
+
+In Search of the First Female Sports Superstar
+
+Marilynne Robinson’s Prodigal Son
+
+A New Theory of Western Civilization
+
+Claudia Rankine’s Quest for Racial Dialogue
+
+The Commons: The Collaborators
+
+An Ode to Small Talk
+
+My Industrial Work
+
+Current affairs and politics focussed on the US</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Atlantic</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-09-18T01:02:23.546913+00:00" name="calibre:timestamp"/>
+        <meta content="Atlantic, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
