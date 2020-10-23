@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">611</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8edc2898-a6eb-4e1d-ba83-0d4b33fae97c</dc:identifier>
+        <dc:title>The Atlantic</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-23T00:51:36.001757+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Election That Could Break America
+
+The Midnight Message
+
+A Pro-Trump Militant Group Has Recruited Thousands of Police, Soldiers, and Veterans
+
+The Mad, Mad World of Niche Sports Among Ivy League–Obsessed Parents
+
+How China Outsmarted the Trump Administration
+
+Beyond the Myth of Malcolm X
+
+Last Exit From Autocracy
+
+American Caudillo
+
+Trump’s Troop
+
+Why Americans Have Turned to Nesting
+
+Kamala Harris’s Ambition Trap
+
+Why Americans Fall for Grifters
+
+Am I What You’re Looking For?
+
+Reading Thomas Jefferson’s Bible
+
+How to Get Rich By Losing Lots of Money
+
+Why British Police Shows Are Better
+
+Why We’re Afraid of Bats
+
+The Commons: Anatomy of an American Failure
+
+An Ode to Agony Aunts
+
+Homage to Bashō
+
+Current affairs and politics focussed on the US</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Atlantic</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-23T00:51:40.457315+00:00"/>
+        <meta name="calibre:title_sort" content="Atlantic, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
