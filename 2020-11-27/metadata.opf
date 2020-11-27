@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">631</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">006dc5d5-7573-4251-ae6a-6f528c739f69</dc:identifier>
+        <dc:title>The Atlantic</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-27T01:18:34.376870+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Last Children of Down Syndrome
+
+The Next Decade Could Be Even Worse
+
+98 Million TikTok Followers Can’t Be Wrong
+
+Can Children Be Persuaded to Love a Parent They Hate?
+
+The Return of Eddie Murphy
+
+School Wasn’t So Great Before COVID, Either
+
+The Role-Playing Game That Predicted the Future
+
+Christmas Dies Hard
+
+What My Dad Gave His Shop
+
+It Wasn’t a Gun
+
+Don’t Subject Your Kids to Rudolph
+
+Teaching Should Be Political
+
+The Many Lives of Adrienne Rich
+
+Whitewashing the Great Depression
+
+The Commons: The Constitution Counted My Great-Great-Grandfather as Three-Fifths of a Free Person
+
+An Ode to Flight Attendants
+
+Tinnitus
+
+Current affairs and politics focussed on the US</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Atlantic</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-27T01:18:36.766406+00:00"/>
+        <meta name="calibre:title_sort" content="Atlantic, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
