@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">678</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3838db22-bb38-41f4-a0ac-8302d845fc1f</dc:identifier>
+        <dc:title>The Atlantic</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-30T14:18:52.055249+00:00</dc:date>
+        <dc:description>本期文章:
+
+What the Chaos in Hospitals Is Doing to Doctors
+
+How Science Beat the Virus
+
+How Biden Should Investigate Trump
+
+The Most American Religion
+
+Shanghai Murmur
+
+A Political Obituary for Donald Trump
+
+He Won a Super Bowl. Now for the Real Challenge.
+
+Why Is There Financing for Everything Now?
+
+The Truth Behind Indian American Exceptionalism
+
+The Artifacts of Bygone Lives
+
+Martin Amis Goes Out With a Bang
+
+Uncovering the Cultural Revolution’s Awful Truths
+
+How Civilization Broke Our Brains
+
+The Real Legacy of the Suffrage Movement
+
+The Commons
+
+An Ode to Naps
+
+Bats and Swallows
+
+Current affairs and politics focussed on the US</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Atlantic</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-30T14:18:55.064379+00:00"/>
+        <meta name="calibre:title_sort" content="Atlantic, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
